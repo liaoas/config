@@ -107,7 +107,7 @@
         }
       },
       "config": {
-        "java-type": "com.cobalt.common.domain.BookData"
+        "java-type": "com.cobalt.book.Book"
       }
     },
     {
@@ -174,7 +174,7 @@
         }
       },
       "config": {
-        "java-type": "com.cobalt.common.domain.Chapter"
+        "java-type": "com.cobalt.chapter.Chapter"
       }
     },
     {
@@ -333,7 +333,7 @@
         }
       },
       "config": {
-        "java-type": "com.cobalt.common.domain.BookData"
+        "java-type": "com.cobalt.book.Book"
       }
     },
     {
@@ -400,7 +400,7 @@
         }
       },
       "config": {
-        "java-type": "com.cobalt.common.domain.Chapter"
+        "java-type": "com.cobalt.chapter.Chapter"
       }
     },
     {
