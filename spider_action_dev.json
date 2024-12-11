@@ -327,9 +327,6 @@
               ]
             }
           }
-        },
-        "config": {
-          "java-type": "com.rabbit.foot.entity.BookData"
         }
       },
       "config": {
