@@ -118,7 +118,7 @@
         "method": "GET",
         "url": "{params[0]}",
         "headers": {
-          "Cookie": "此处填写京东登录Cookie"
+          "Cookie": "Cookie"
         },
         "params": {
           "searchkey": "{params[0]}"
@@ -185,7 +185,7 @@
         "method": "GET",
         "url": "{params[0]}",
         "headers": {
-          "Cookie": "此处填写京东登录Cookie"
+          "Cookie": "Cookie"
         },
         "params": {
           "searchkey": "{params[0]}"
@@ -231,7 +231,7 @@
         "method": "GET",
         "url": "http://www.booktxt.tw/ar.php?keyWord={params[0]}",
         "headers": {
-          "Cookie": "此处填写京东登录Cookie"
+          "Cookie": "Cookie"
         },
         "params": {
           "searchkey": "{params[0]}"
@@ -341,7 +341,7 @@
         "method": "GET",
         "url": "{params[0]}",
         "headers": {
-          "Cookie": "此处填写京东登录Cookie"
+          "Cookie": "Cookie"
         },
         "params": {
           "searchkey": "{params[0]}"
@@ -408,7 +408,7 @@
         "method": "GET",
         "url": "{params[0]}",
         "headers": {
-          "Cookie": "此处填写京东登录Cookie"
+          "Cookie": "Cookie"
         },
         "params": {
           "searchkey": "{params[0]}"
